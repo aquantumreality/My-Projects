@@ -1,7 +1,9 @@
 # My-Projects
 
-## Machine Learning 
+## Machine Learning and Data Science
 - Deploying an ML model using Flask and Docker
+- Kaggle Predict Future Sales
+- Movie Recommender System
 - [Basic Spam Email Classifier](https://github.com/aquantumreality/My-Projects/tree/main/ML/Spam%20Email%20Detection)
 - [An Exhaustive ML Notebook with basic models](https://github.com/aquantumreality/My-Projects/tree/main/ML/Exhaustive%20ML%20Notebook)
 
