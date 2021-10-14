@@ -2,6 +2,7 @@
 
 ## Machine Learning 
 - Deploying an ML model using Flask and Docker
+- Spam Email Classifier
 
 ## Computer Vision 
 
