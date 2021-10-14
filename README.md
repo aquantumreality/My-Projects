@@ -3,6 +3,7 @@
 ## Machine Learning 
 - Deploying an ML model using Flask and Docker
 - [Basic Spam Email Classifier](https://github.com/aquantumreality/My-Projects/tree/main/ML/Spam%20Email%20Detection)
+- [An Exhaustive ML Notebook with basic models]
 
 ## Computer Vision 
 
