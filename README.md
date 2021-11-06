@@ -2,7 +2,7 @@
 
 ## Machine Learning and Data Science
 - Deploying an ML model using Flask and Docker
-- Kaggle Predict Future Sales
+- [Kaggle: Predict Future Sales solution](https://github.com/analytics-club-iitm/kaggle-predict-future-sales)
 - Movie Recommender System
 - [Basic Spam Email Classifier](https://github.com/aquantumreality/My-Projects/tree/main/ML/Spam%20Email%20Detection)
 - [An Exhaustive ML Notebook with basic models](https://github.com/aquantumreality/My-Projects/tree/main/ML/Exhaustive%20ML%20Notebook)
