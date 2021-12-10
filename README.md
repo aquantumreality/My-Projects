@@ -23,3 +23,4 @@
 
 ## Miscellaneous
 - [Discord Bot](https://github.com/aquantumreality/Discord-Bot)
+- Typing Game in C
