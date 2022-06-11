@@ -13,6 +13,10 @@
 ## Natural Language Processing 
 - [Visual Attention Image Captioning](https://github.com/aquantumreality/My-Projects/tree/main/NLP/Visual_Attention_Image_Captioning)
 
+## Reinforcement Learning
+- [Q-Learning](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/QLearning)
+- [Actor-Critic](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/Actorcritic)
+- 
 ## Various Ciphers used in Cryptography using Python
 - [Caesar Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/caesar.py)
 - [Vigenere Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/vigenere.py)
