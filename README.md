@@ -16,7 +16,9 @@
 ## Reinforcement Learning
 - [Q-Learning](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/QLearning)
 - [Actor-Critic](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/Actorcritic)
-- 
+
+## Signal Processing
+- [Lattice Filters](https://github.com/aquantumreality/FIR-Lattice-Filters)
 ## Various Ciphers used in Cryptography using Python
 - [Caesar Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/caesar.py)
 - [Vigenere Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/vigenere.py)
