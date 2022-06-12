@@ -1,9 +1,5 @@
 """
-
 Author      : G Abhiram <gabhiram@smail.iitm.ac.in>
-Roll no     : EE20B037
-Course      : EE2703 - Applied Programming Lab
-Assignment  : 10
 Date Created: May 14, 2022
 Description : Convolution using DSP
 • To use Linear and Circular Convolution to find the output of a low pass FIR filter for a
