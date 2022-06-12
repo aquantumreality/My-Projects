@@ -9,7 +9,7 @@
 
 ## Computer Vision 
 - [ResNet first time](https://github.com/aquantumreality/My-Projects/tree/main/CV-NLP/ResNet%20on%20CIFAR10)
-- [PokeGAN]
+- [PokeGAN](https://github.com/aquantumreality/My-Projects/blob/main/CV/PokeGAN.ipynb)
 
 ## Natural Language Processing 
 - [Visual Attention Image Captioning](https://github.com/aquantumreality/My-Projects/tree/main/NLP/Visual_Attention_Image_Captioning)
