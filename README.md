@@ -32,4 +32,7 @@
 
 ## Miscellaneous
 - [Discord Bot](https://github.com/aquantumreality/Discord-Bot)
+- [Broken Sticks and Triangles](https://github.com/aquantumreality/expert-eureka/tree/main/Broken%20Sticks%20and%20Triangles) - a classic problem from Probability Theory
+- [Buffon's Needle](https://github.com/aquantumreality/expert-eureka/tree/main/Buffon's%20Needle) - an interesting application of this problem is in estimating the value of π
+- [Gambler's Ruin](https://github.com/aquantumreality/expert-eureka/tree/main/Gambler's%20Ruin) - a nice application of Markov's Chain
 - Typing Game in C
