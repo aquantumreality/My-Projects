@@ -1,4 +1,5 @@
-# My-Projects
+# Shooting Stars
+A collection of almost everything that I've coded. 
 
 ## Machine Learning and Data Science
 - Deploying an ML model using Flask and Docker
