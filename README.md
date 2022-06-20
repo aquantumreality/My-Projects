@@ -6,6 +6,7 @@
 - Movie Recommender System
 - [Basic Spam Email Classifier](https://github.com/aquantumreality/My-Projects/tree/main/ML/Spam%20Email%20Detection)
 - [An Exhaustive ML Notebook with basic models](https://github.com/aquantumreality/My-Projects/tree/main/ML/Exhaustive%20ML%20Notebook)
+- [Backpropagation From Scratch template]()
 
 ## Computer Vision 
 - [ResNet first time](https://github.com/aquantumreality/My-Projects/tree/main/CV-NLP/ResNet%20on%20CIFAR10)
