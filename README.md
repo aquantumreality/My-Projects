@@ -20,7 +20,9 @@
 
 ## Signal Processing
 - [Lattice Filters](https://github.com/aquantumreality/FIR-Lattice-Filters)
-- [Convolution using DSP](
+- [Convolution using DSP](https://github.com/aquantumreality/My-Projects/tree/main/SigPro/Convolution%20using%20DFT)
+- [DSP Playground](https://github.com/aquantumreality/My-Projects/blob/main/SigPro/DSP%20Playground.ipynb)
+- [Efficient Windowing using C++](https://github.com/aquantumreality/My-Projects/tree/main/SigPro/DSP%20Windowing)
 
 ## Various Ciphers used in Cryptography using Python
 - [Caesar Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/caesar.py)
