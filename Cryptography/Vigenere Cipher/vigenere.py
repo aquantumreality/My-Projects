@@ -30,7 +30,7 @@ def decrypt(key, encrypted):
 
 
 key = "abc"
-text = "ZZAla ma kota"
+text = "Horny Rushill"
 cipher = encrypt(key, text)
 print(cipher)
 msg = decrypt(key, cipher)

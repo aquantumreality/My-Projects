@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    plaintext = "lorus ipsum"
+    plaintext = "abhi loves tiramisu"
     ciphertext = ""
     for ch in plaintext:
         ascii_value = ord(ch)
