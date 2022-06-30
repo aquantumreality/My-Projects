@@ -1,4 +1,5 @@
-# My-Projects
+# Shooting Stars
+A compilation of most personal projects/codes
 
 ## Machine Learning and Data Science
 - Deploying an ML model using Flask and Docker
@@ -6,6 +7,7 @@
 - Movie Recommender System
 - [Basic Spam Email Classifier](https://github.com/aquantumreality/My-Projects/tree/main/ML/Spam%20Email%20Detection)
 - [An Exhaustive ML Notebook with basic models](https://github.com/aquantumreality/My-Projects/tree/main/ML/Exhaustive%20ML%20Notebook)
+- [Backpropagation From Scratch template](https://github.com/aquantumreality/My-Projects/blob/main/ML/Backpropagation.ipynb)
 
 ## Computer Vision 
 - [ResNet first time](https://github.com/aquantumreality/My-Projects/tree/main/CV-NLP/ResNet%20on%20CIFAR10)
@@ -13,6 +15,7 @@
 
 ## Natural Language Processing 
 - [Visual Attention Image Captioning](https://github.com/aquantumreality/My-Projects/tree/main/NLP/Visual_Attention_Image_Captioning)
+- [Music Generation]()
 
 ## Reinforcement Learning
 - [Q-Learning](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/QLearning)
@@ -20,7 +23,10 @@
 
 ## Signal Processing
 - [Lattice Filters](https://github.com/aquantumreality/FIR-Lattice-Filters)
-- [Convolution using DSP](
+- [Convolution using DSP](https://github.com/aquantumreality/My-Projects/tree/main/SigPro/Convolution%20using%20DFT)
+- [DSP Playground](https://github.com/aquantumreality/My-Projects/blob/main/SigPro/DSP%20Playground.ipynb)
+- [Efficient Windowing using C++](https://github.com/aquantumreality/My-Projects/tree/main/SigPro/DSP%20Windowing)
+- [FFT using C++](https://github.com/aquantumreality/Shooting-Stars/blob/main/SigPro/fft2.cpp)
 
 ## Various Ciphers used in Cryptography using Python
 - [Caesar Cipher](https://github.com/aquantumreality/My-Projects/blob/main/Cryptography/caesar.py)
