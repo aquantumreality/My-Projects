@@ -15,6 +15,7 @@ A compilation of most personal projects/codes
 
 ## Natural Language Processing 
 - [Visual Attention Image Captioning](https://github.com/aquantumreality/My-Projects/tree/main/NLP/Visual_Attention_Image_Captioning)
+- [Music Generation]()
 
 ## Reinforcement Learning
 - [Q-Learning](https://github.com/aquantumreality/Shaastra-2022-RL/tree/main/QLearning)
